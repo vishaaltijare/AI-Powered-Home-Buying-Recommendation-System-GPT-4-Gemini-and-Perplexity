@@ -3,8 +3,6 @@
 
 <ins>**Project Overview**</ins>
 
-<ins> </ins>
-
 
 
 
@@ -12,7 +10,7 @@ This project uses prompting techniques and multi-model evaluation (ChatGPT-4, Ge
 
 
 
-**Objectives**
+<ins>**Objectives**</ins>
 
 
 
@@ -26,7 +24,7 @@ Compare outputs from leading LLMs to identify the most insightful and reliable m
 
 
 
-**Key Technical Achievements**
+<ins>**Key Technical Achievements**</ins>
 
 
 
@@ -42,7 +40,7 @@ Built a prompt-powered knowledge base using a structured real estate playbook an
 
 
 
-**Key Insights**
+<ins>**Key Insights**</ins>
 
 
 
@@ -53,7 +51,7 @@ Gemini and ChatGPT-4 provided more analytical and cost-aligned recommendations, 
 
 
 
-**My Key Learnings**
+<ins>**My Key Learnings**</ins>
 
 
 
