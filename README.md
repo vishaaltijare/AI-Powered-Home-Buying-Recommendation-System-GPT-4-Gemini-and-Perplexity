@@ -1,6 +1,6 @@
-### **AI-Powered Real Estate Recommendation System – Gurugram**
+# **AI-Powered Real Estate Recommendation System – Gurugram**
 
-# **Project Overview**
+### **Project Overview**
 This project uses prompting techniques and multi-model evaluation (ChatGPT-4, Gemini, and Perplexity) to build a real estate recommendation system for home buyers in Gurugram. It acts as a personalized decision support assistant that helps users navigate affordability, rent vs. buy trade-offs, and investment choices, based on their financial profile and preferences.
 
 # **Objectives**
