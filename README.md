@@ -8,7 +8,8 @@ This project uses prompting techniques and multi-model evaluation (ChatGPT-4, Ge
 - Generate location-specific real estate insights according to a user’s income, preferences, and priorities.  
 - Compare outputs from leading LLMs to identify the most insightful and reliable model.
 
-### 📌 **Process Flowchart**
+### 📌 **Process Flowchart** (Generated using prompts in Napkin AI)
+
 ![Process flowchart](Prompt%20screenshots/Process%20flowchart.png)
 
 ---
