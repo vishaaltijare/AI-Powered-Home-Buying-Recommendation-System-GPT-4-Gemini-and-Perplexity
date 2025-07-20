@@ -3,20 +3,20 @@
 ### **Project Overview**
 This project uses prompting techniques and multi-model evaluation (ChatGPT-4, Gemini, and Perplexity) to build a real estate recommendation system for home buyers in Gurugram. It acts as a personalized decision support assistant that helps users navigate affordability, rent vs. buy trade-offs, and investment choices, based on their financial profile and preferences.
 
-# **Objectives**
+### **Objectives**
 - Design a reusable, prompt-based framework for home-buying decision support using generative AI.  
 - Generate location-specific real estate insights according to a user’s income, preferences, and priorities.  
 - Compare outputs from leading LLMs to identify the most insightful and reliable model.
 
-# 📌 **Process Flowchart** (Generated using prompts in Napkin AI)
+### 📌 **Process Flowchart** (Generated using prompts in Napkin AI)
 
 ![Process flowchart](Prompt%20screenshots/Process%20flowchart.png)
 
 ---
 
-# 📎 **Files Used in Project**
+### 📎 **Files Used in Project**
 
-# 🧠 **Prompting Workflow and Artifacts**
+### 🧠 **Prompting Workflow and Artifacts**
 
 Beginning prompt
 
@@ -48,17 +48,17 @@ Final playbook report
 
 ---
 
-# **Key Technical Achievements**
+### **Key Technical Achievements**
 - Designed a chained prompting system to guide LLMs through research, personalization, and recommendation steps.  
 - Tested and benchmarked multiple LLMs (Gemini, ChatGPT-4, Perplexity) for clarity, depth, and alignment with real-world user needs.  
 - Developed a custom EMI and rent-vs-buy assessment flow, integrating net income growth and user-defined emotional trade-offs.  
 - Built a prompt-powered knowledge base using a structured real estate playbook and personalized questionnaire.
 
-# **Key Insights**
+### **Key Insights**
 - Prompt quality and chaining heavily influence the depth and usability of LLM responses.  
 - Gemini and ChatGPT-4 provided more analytical and cost-aligned recommendations, while Perplexity was better for initial domain research.
 
-# **My Key Learnings**
+### **My Key Learnings**
 - Designing effective, structured prompts is critical for extracting personalized outputs from LLMs.  
 - Different LLMs have strengths depending on the task (e.g., research vs. personalization vs. reasoning).  
 - AI tools can be used as effective assistants in domains like real estate and financial planning.
